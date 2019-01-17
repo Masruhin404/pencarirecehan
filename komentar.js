@@ -9,7 +9,7 @@
  *	--==Options==--
  * 		var 	numComments 	= 5,
  * 			showAvatar 	= true,
- * 			avatarSize 	= 20,
+ * 			avatarSize 	= 22,
  * 			roundAvatar	= true,
  * 			showMorelink	= false,
  * 			moreLinktext	= "More &raquo;"
